@@ -1,5 +1,32 @@
 [
   {
+    "bureau": "공학기술처 (OET)",
+    "type": "Notice",
+    "title_ko": "OET, 특정 허용 변경 금지 조항 면제",
+    "title_en": "OET Waives Certain Permissive Change Prohibitions",
+    "summary": "FCC(미국 연방통신위원회)의 공학기술처(OET)는 특정 외국 생산의 고급 로봇 장치 및 전력 인버터에 대한 규제 면제를 발표했습니다. 이 조치는 2026년 7월 28일 이후로 미국 내에서 승인된 모든 고급 로봇 장치와 전력 인버터가 소프트웨어 및 펌웨어 업데이트를 통해 소비자 피해를 완화할 수 있도록 허용하며, 이는 최소 2029년 1월 1일까지 유효합니다. 이러한 결정은 기존 장치의 안전한 운영을 보장하고, 공공의 이익을 증진하기 위한 것으로, 면제된 변경 사항은 이미 승인된 장치에만 적용되며, 관련 FCC 규정을 준수해야 합니다.",
+    "date": "Jul 28, 2026",
+    "link": "https://www.fcc.gov/document/oet-waives-certain-permissive-change-prohibitions"
+  },
+  {
+    "bureau": "공학기술처 (OET)",
+    "type": "Notice",
+    "title_ko": "FCC 기술 자문 위원회 회의 발표",
+    "title_en": "FCC Announces Technological Advisory Council Meeting",
+    "summary": "FCC(미국 연방통신위원회)의 공학기술처(OET)는 기술 자문 위원회(TAC)의 구성원을 임명하였으며, 이 위원회는 미국의 글로벌 경쟁력을 지원하는 기술 정책 개발을 위한 전문 지식을 제공합니다. TAC는 6G 개발을 포함한 차세대 통신 기술, 고급 스펙트럼 공유 기법, 인공지능 및 머신러닝 활용 방안 등을 논의할 예정입니다. 다음 TAC 회의는 2026년 10월 1일에 개최될 예정이며, 일반 대중이 참석할 수 있는 기회를 제공합니다. 이 회의는 FCC의 기술 혁신과 정책 방향에 중요한 기여를 할 것으로 기대됩니다.",
+    "date": "Jul 28, 2026",
+    "link": "https://www.fcc.gov/document/fcc-announces-technological-advisory-council-meeting-4"
+  },
+  {
+    "bureau": "공학기술처 (OET)",
+    "type": "Notice",
+    "title_ko": "FCC, 외국산 전력 인버터 및 로봇을 적용 대상 목록에 추가",
+    "title_en": "FCC Adds Foreign-Produced Power Inverters and Robots to Covered List",
+    "summary": "FCC(미국 연방통신위원회)의 공학기술처(OET)는 외국에서 생산된 고급 로봇 장치와 전력 인버터를 새로운 규제 대상 목록(Covered List)에 추가했습니다. 이는 백악관의 국가안보 전문 기관이 이들 장치가 미국의 국가안보 및 안전에 심각한 위협을 초래한다고 판단한 데 따른 조치입니다. 이로 인해 새로운 외국산 고급 로봇 장치와 전력 인버터는 FCC의 장비 인증을 받을 수 없으며, 기존에 인증된 모델의 수입 및 판매는 계속 허용됩니다. 또한, 조건부 승인을 받은 생산자는 FCC 장비 인증을 계속 받을 수 있도록 장려하고 있습니다.",
+    "date": "Jul 28, 2026",
+    "link": "https://www.fcc.gov/document/fcc-adds-foreign-produced-power-inverters-and-robots-covered-list-0"
+  },
+  {
     "bureau": "무선통신국 (WTB)",
     "type": "Notice",
     "title_ko": "특정 상위 C밴드 통신의 엑스 파르테 상태에 대한 공지",
