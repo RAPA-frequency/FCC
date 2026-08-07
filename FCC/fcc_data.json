@@ -1,5 +1,14 @@
 [
   {
+    "bureau": "우주국 (Space)",
+    "type": "Notice",
+    "title_ko": "우주 의제가 진전됨에 따라 카르는 떠나는 우주국장에게 감사 인사를 전하다",
+    "title_en": "Carr Thanks Departing Space Bureau Chief as Space Agenda Moves Ahead",
+    "summary": "FCC(미국 연방통신위원회)의 우주국(Space Bureau)은 최근 Jay Schwarz 국장이 퇴임함에 따라, 그의 재임 기간 동안 FCC의 우주 혁신 의제를 추진한 성과를 되돌아보았습니다. Schwarz 국장은 우주 라이센스 프로세스를 현대화하는 중대한 개혁을 이끌어내어, 라이센스 대기 시간을 43% 단축하고 2026년에는 추가로 15% 감소시키는 성과를 달성했습니다. 앞으로 Jennifer Gilsenan 부국장이 대행 국장으로서 우주국의 업무를 지속적으로 추진할 예정이며, FCC는 차세대 우주 시대의 요구에 부응하기 위해 경쟁력 있는 글로벌 통신 시장을 조성하는 데 주력할 것입니다.",
+    "date": "Aug 7, 2026",
+    "link": "https://www.fcc.gov/document/carr-thanks-departing-space-bureau-chief-space-agenda-moves-ahead"
+  },
+  {
     "bureau": "공학기술처 (OET)",
     "type": "Notice",
     "title_ko": "FCC, 면허 없는 무선 통신을 위한 D2D 위성 연결 확대 추진",
