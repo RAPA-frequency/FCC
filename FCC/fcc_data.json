@@ -1,5 +1,14 @@
 [
   {
+    "bureau": "공학기술처 (OET)",
+    "type": "Notice",
+    "title_ko": "WTB와 OET, C-UAS 조치에 대한 CTIA 청원에 대한 의견 요청",
+    "title_en": "WTB and OET Seek Comment on CTIA Petitions on C-UAS Actions",
+    "summary": "FCC(미국 연방통신위원회)의 무선통신국(WTB)과 공학기술처(OET)는 드론 대응 조치에 대한 재고 및 명확화를 요청하는 청원에 대한 의견을 구합니다. 이는 CTIA가 제출한 네 가지 청원에 대한 것으로, 드론 대응 조치의 개발 및 사용을 촉진하기 위한 조치입니다. FCC는 이러한 청원에 대한 반대 의견을 2026년 9월 14일까지 제출하도록 하고, 반대 의견에 대한 답변은 9월 29일까지 제출할 것을 요구합니다. 또한, 관련 서류는 전자적으로 제출할 수 있으며, 개별적인 서비스 요구 사항을 면제하는 조치를 취했습니다.",
+    "date": "Aug 14, 2026",
+    "link": "https://www.fcc.gov/document/wtb-and-oet-seek-comment-ctia-petitions-c-uas-actions"
+  },
+  {
     "bureau": "무선통신국 (WTB)",
     "type": "Notice",
     "title_ko": "시에라 네바다 컴퍼니 LLC, 제87조 규정 면제 요청",
