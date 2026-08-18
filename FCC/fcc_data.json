@@ -1,5 +1,14 @@
 [
   {
+    "bureau": "우주국 (Space)",
+    "type": "Notice",
+    "title_ko": "우주국, 아마존 LEO NGSO D2D 시스템 신청서 접수 승인",
+    "title_en": "Space Bureau Accepts for Filing Amazon Leo NGSO D2D System Application",
+    "summary": "FCC(미국 연방통신위원회)의 우주국(Space Bureau)은 Amazon Leo의 비정지 궤도(Non-Geostationary Orbit, NGSO) 위성 시스템인 Amazon Leo D2D 시스템에 대한 신청서를 접수하였습니다. 이 시스템은 5,105개의 위성을 통해 미국 및 국제적으로 직접 장치 간(D2D) 서비스를 제공할 예정이며, 저궤도에서 운영됩니다. Amazon은 이 시스템의 운영을 Globalstar의 자산과 통합할 계획이며, 관련된 면제 요청도 포함되어 있습니다. 이에 따라, 이해관계자들은 정해진 기한 내에 의견을 제출할 수 있으며, FCC는 이 신청서에 대한 초기 검토를 통해 수용 가능성을 판단하였습니다.",
+    "date": "Aug 18, 2026",
+    "link": "https://www.fcc.gov/document/space-bureau-accepts-filing-amazon-leo-ngso-d2d-system-application"
+  },
+  {
     "bureau": "공학기술처 (OET)",
     "type": "Notice",
     "title_ko": "WTB와 OET, C-UAS 조치에 대한 CTIA 청원에 대한 의견 요청",
